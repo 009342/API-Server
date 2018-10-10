@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "APIServer", "APIServer\APIServer.njsproj", "{4AC62F46-4448-426A-98FF-DBD4E55E93CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC62F46-4448-426A-98FF-DBD4E55E93CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC62F46-4448-426A-98FF-DBD4E55E93CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC62F46-4448-426A-98FF-DBD4E55E93CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC62F46-4448-426A-98FF-DBD4E55E93CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC3DD281-F1AF-4A39-9527-BC62969C2502}
+	EndGlobalSection
+EndGlobal
